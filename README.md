@@ -43,7 +43,11 @@ All the components in this mod are protected under the [GPL-V2 license agreement
 
 # Changelog
 
-### V. 5.3 (final version)
+### V. 5.3.1
+- Updated OnePlus Gallery
+- Updated OnePlus Calculator
+
+### V. 5.3 <s>(final version)</s>
 - Fixed OnePlus Gallery;
 - Updated media sounds from OnePlus 8 line;
 - update MMT-ex template to 1.6.
