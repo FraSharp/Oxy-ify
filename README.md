@@ -1,4 +1,4 @@
-# Oxy-ify based on [Filippo Fedeli - MarcAnt01](https://github.com/MarcAnt01) work
+# This is a fork of Oxy-ify, made by [Filippo Fedeli - MarcAnt01](https://github.com/MarcAnt01)
 
 
 Oxy-ify is a fantastic Magisk Module that will turn your Android phone into a OnePlus device by adding:
