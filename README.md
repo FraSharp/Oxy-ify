@@ -8,6 +8,7 @@ Oxy-ify is a fantastic Magisk Module that will turn your Android phone into a On
 - OnePlus Widget;
 - OnePlus Wallpapers;
 - OnePlus Slate font.
+- OnePlus Sans font. (Credits goes to <a href="https://forum.xda-developers.com/member.php?u=9001079">Venky</a>)
 
 Most of the apks of the apps are considered safe since directly come from OnePlus Roms or Play Store updates.
 OnePlus Widget and Screen Recorder have modified by other devs and posted on XDA, so they are safe, as well.
@@ -172,6 +173,7 @@ Initial release.
 - [rakeshb4r](https://forum.xda-developers.com/member.php?u=6520464) for modded OnePlus Screen Recorder.
 - [EvolutionX team working on wallpaper picker](https://github.com/Evolution-X-Legacy/packages_apps_Papers/graphs/contributors) for the base for wallpaper picker.
 - [Santiago Pintos](https://github.com/SantiagoPintos) for OnePlus Slate font.
+- [Venky](https://forum.xda-developers.com/member.php?u=9001079) for OnePlus Sans font.
 - [topjohnwu](https://github.com/topjohnwu) for Magisk.
 - OnePlus for providing all the stuff included here.
 
