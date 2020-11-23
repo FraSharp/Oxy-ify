@@ -40,9 +40,12 @@ All the components in this mod are protected under the [GPL-V2 license agreement
 
 # Changelog
 
+### V. 5.4
+- Added OnePlus Sans font.
+
 ### V. 5.3.1
-- Updated OnePlus Gallery
-- Updated OnePlus Calculator
+- Updated OnePlus Gallery;
+- Updated OnePlus Calculator.
 
 ### V. 5.3 <s>(final version)</s>
 - Fixed OnePlus Gallery;
