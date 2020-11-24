@@ -19,7 +19,7 @@ Wallpaper picker is a custom app forked from EvolutionX wallpaper picker. You ca
 Read this before asking anything, otherwise your question/request will be ignored:
 1. *How to install?* This question sounds stupid to me, but unluckily it's not the same for every person. Open Magisk Manager, go to downloads section and look for it. I don't provide the zips anywhere, if you flash it outside of the repo, do it at your own risk.
 2. *What Roms is it compatible with?* The module is supposed to work with most of custom and propietary Roms (even if it might not work for some Roms very different from AOSP)
-3. *What Magisk version does it require?* Magisk 19.0 is the minimum version for modules based on the new template
+3. *What Magisk version does it require?* Magisk 20.0 is the minimum version for modules based on the new template
 4. *Why is the size of the Magisk module so huge?* The module includes the apps apk files, which happen to be very huge (OnePlus Gallery for example is 100MB)
 5. *What Android versions does it support?* The module should work from Marshmallow, even if most apps require recent Android versions to be working.
 6. *How to uninstall?* Reflash the module from recovery or uninstall through Magisk Manager
