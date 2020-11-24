@@ -8,7 +8,7 @@ Oxy-ify is a fantastic Magisk Module that will turn your Android phone into a On
 - OnePlus Widget;
 - OnePlus Wallpapers;
 - OnePlus Slate font.
-- OnePlus Sans font. (Credits goes to <a href="https://forum.xda-developers.com/member.php?u=9001079">Venky</a>)
+- OnePlus Sans font. (Credits goes to [Venky](https://forum.xda-developers.com/member.php?u=9001079))
 
 Most of the apks of the apps are considered safe since directly come from OnePlus Roms or Play Store updates.
 OnePlus Widget and Screen Recorder have modified by other devs and posted on XDA, so they are safe, as well.
@@ -28,7 +28,7 @@ Read this before asking anything, otherwise your question/request will be ignore
 9. *I just want font and calculator* During the installation you can choose what to install.
 10. *Any ETA?* No-one pays me to work within a deadline.
 
-# How to reach out to me
+# How to reach [MarcAnt01](https://github.com/MarcAnt01)
 -   [![Thread XDA](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/oxy-ify-magisk-module-add-oxygen-os-t3888094)
 -   [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg)](https://t.me/Oxyify)
 

@@ -11,7 +11,7 @@ patch() {
 	sed -i '/"sans-serif">/,/family>/H;1,/family>/{/family>/G}' $SYSXML
 	sed -i ':a;N;$!ba;s/name="sans-serif"//2' $SYSXML
 	sed -i '/"sans-serif">/,/family>/{s/Roboto-M/M/;s/Roboto-B/B/}' $SYSXML
-    sed -i '/"sans-serif">/,/family>/{s/Roboto-T/T/;s/Roboto-L/L/;s/Roboto-R/R/;s/Roboto-I/I/}' $SYSXML	
+  sed -i '/"sans-serif">/,/family>/{s/Roboto-T/T/;s/Roboto-L/L/;s/Roboto-R/R/;s/Roboto-I/I/}' $SYSXML	
 	sed -i 's/RobotoC/C/' $SYSXML
 }
 
@@ -30,12 +30,12 @@ body() {
 	cp $FONTDIR/OnePlusSans-LightItalic.ttf $SYSFONT/LightItalic.ttf;
 	cp $FONTDIR/OnePlusSans-Regular.ttf $SYSFONT/Regular.ttf;
 	cp $FONTDIR/OnePlusSans-Thin.ttf 
-$SYSFONT/Thin.ttf
+  $SYSFONT/Thin.ttf
 	cp $FONTDIR/OnePlusSans-ThinItalic.ttf $SYSFONT/ThinItalic.ttf;	
 }
 
 condensed() {
-    cp $FONTDIR/OnePlusSans-Regular.ttf $SYSFONT/Condensed-Regular.ttf;
+  cp $FONTDIR/OnePlusSans-Regular.ttf $SYSFONT/Condensed-Regular.ttf;
 	cp $FONTDIR/OnePlusSans-Italic.ttf $SYSFONT/Condensed-Italic.ttf;
 	cp $FONTDIR/OnePlusSans-Bold.ttf $SYSFONT/Condensed-Bold.ttf;
 	cp $FONTDIR/OnePlusSans-BoldItalic.ttf $SYSFONT/Condensed-BoldItalic.ttf;	
